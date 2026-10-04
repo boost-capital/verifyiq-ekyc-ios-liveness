@@ -1,0 +1,16 @@
+VerifyIQ eKYC SDK
+Copyright (c) 2026 Boost Capital. All rights reserved.
+
+This software is proprietary. It is published so that partners of Boost Capital can add it to
+their apps with Swift Package Manager; publication grants no licence. You may use, copy and
+distribute it only as part of an app that uses the VerifyIQ service, and only under your written
+agreement with Boost Capital. Without such an agreement you have no right to use it. You may not
+modify it, reverse engineer it, or use it to build a competing product or service.
+
+Third-party components keep their own licences. The fonts Inter and Noto Sans Khmer inside the
+frameworks are under the SIL Open Font License 1.1; their licence texts are in the Fonts folder
+next to them. The liveness package depends on AWS Amplify UI Liveness, which is under the Apache
+License 2.0.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, EXCEPT AS
+YOUR WRITTEN AGREEMENT WITH BOOST CAPITAL PROVIDES.
