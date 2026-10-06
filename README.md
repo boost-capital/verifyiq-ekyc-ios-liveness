@@ -5,7 +5,7 @@ The liveness check of the VerifyIQ eKYC SDK (iOS 15 and later), as a Swift packa
 by the release process; changes made here are overwritten.
 
 ```swift
-.package(url: "https://github.com/boost-capital/verifyiq-ekyc-ios-liveness", exact: "0.9.2"),
+.package(url: "https://github.com/boost-capital/verifyiq-ekyc-ios-liveness", exact: "0.9.3"),
 ```
 
 Product `VerifyIQeKYCLiveness`. Add it only when the app's deployment target is iOS 15 or later,

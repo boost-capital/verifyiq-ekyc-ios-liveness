@@ -13,7 +13,7 @@ let package = Package(
         .library(name: "VerifyIQeKYCLiveness", targets: ["VerifyIQeKYCLiveness"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/boost-capital/verifyiq-ekyc-ios", exact: "0.9.2"),
+        .package(url: "https://github.com/boost-capital/verifyiq-ekyc-ios", exact: "0.9.3"),
         .package(url: "https://github.com/aws-amplify/amplify-ui-swift-liveness", exact: "1.4.8"),
     ],
     targets: [
